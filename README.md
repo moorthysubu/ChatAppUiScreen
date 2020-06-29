@@ -1,5 +1,5 @@
 # ChatAppUiScreen
-Simple android application to demonstrate most commonly used chat conversation screen with custom tab with dynamic conversation list...
+Simple android application to demonstrate most commonly used chat conversation screen with custom tab with dynamic conversation list.
 
 # Result:
 <img src=screenshot/conversation_screen.png height = "500">
